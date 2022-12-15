@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Sweeistaken
-- 👀 I’m interested in using Github
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on a project on replit
-- 📫 How to reach me :
-- email: amicablepie@outlook.com
-- scratch profile: sweetiepieh1
+Welcome to Swee Studios on github!
+This profile has Homes of many software By Swee Studios.
 
 <!---
 Sweeistaken/Sweeistaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
