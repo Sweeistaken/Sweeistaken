@@ -5,7 +5,7 @@ I have also founded the fictional company SweeZero!
 Currently working on:
 - SweeChat (Client with C#) (Postponed) - Chatting platform inspired by IRC (under SweeZero)
 - [MintHTML](https://github.com/Sweeistaken/MintHTML) (C#) - Markdown Converter/Renderer
-- FilerLITE (Postponed) (C#) - Rewrite of FilerNET using .NET Core
+- FilerLITE (C#) (Postponed) - Rewrite of FilerNET using .NET Core
 - [SweeCrypt](https://github.com/SweeZeroCode/SweeCrypt) (Python) (Not activly developed) - Standard chipher in Python (Under SweeZero)
 <!---
 Sweeistaken/Sweeistaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
