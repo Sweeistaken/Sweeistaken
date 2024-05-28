@@ -10,4 +10,4 @@ Currently working on:
 
 - FilerLITE (C#) (Postponed) - Rewrite of FilerNET using .NET Core
 
-[![image](https://github.com/Sweeistaken/Sweeistaken/assets/120145778/affd229b-c9c2-4315-8500-23a316eb2eda)](https://github.com/SweeZeroCode/SweeCrypt)
+[![image](https://github.com/Sweeistaken/Sweeistaken/assets/120145778/04cdf79a-0da6-44ac-be36-216e4966b926)](https://github.com/SweeZeroCode/SweeCrypt)
