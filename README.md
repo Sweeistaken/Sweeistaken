@@ -8,6 +8,6 @@ Currently working on:
 
 - [MintHTML](https://github.com/Sweeistaken/MintHTML) (C#) - Markdown Converter/Renderer
 
-- FilerLITE (C#) (Postponed) - Rewrite of FilerNET using .NET Core
+[![image](https://github.com/Sweeistaken/Sweeistaken/assets/120145778/0b2abd27-1065-489c-b353-428cea002cc2)](#)
 
 [![image](https://github.com/Sweeistaken/Sweeistaken/assets/120145778/04cdf79a-0da6-44ac-be36-216e4966b926)](https://github.com/SweeZeroCode/SweeCrypt)
