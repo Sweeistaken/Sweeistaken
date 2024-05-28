@@ -4,7 +4,7 @@ I have also founded the fictional company SweeZero!
 
 Currently working on:
 
-<a>![SweeChat-banner](https://github.com/Sweeistaken/Sweeistaken/assets/120145778/49f7060e-b6bb-4aa6-8dfc-fd8510b540da)</a>
+<a href="#">![SweeChat-banner](https://github.com/Sweeistaken/Sweeistaken/assets/120145778/49f7060e-b6bb-4aa6-8dfc-fd8510b540da)</a>
 
 - [MintHTML](https://github.com/Sweeistaken/MintHTML) (C#) - Markdown Converter/Renderer
 - 
