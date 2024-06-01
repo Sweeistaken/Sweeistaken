@@ -6,7 +6,7 @@ Currently working on:
 
 [![SweeChat-banner](https://github.com/Sweeistaken/Sweeistaken/assets/120145778/49f7060e-b6bb-4aa6-8dfc-fd8510b540da)](#)
 
-- [MintHTML](https://github.com/Sweeistaken/MintHTML) (C#) - Markdown Converter/Renderer
+[![MintHTML-banner](https://github.com/Sweeistaken/Sweeistaken/assets/120145778/dc69e799-a9f9-4658-8361-b79be7f047e3)](https://github.com/Sweeistaken/MintHTML)
 
 [![image](https://github.com/Sweeistaken/Sweeistaken/assets/120145778/0b2abd27-1065-489c-b353-428cea002cc2)](#)
 
