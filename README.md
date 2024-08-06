@@ -1,4 +1,4 @@
-Hello, this is Swee!  
+Hello, I'm known as Swee on almost every corner of the world wide web!  
 I Program Kotlin, C#, Python, and Roblox Lua.
 I have also founded the fictional company SweeZero!
 
