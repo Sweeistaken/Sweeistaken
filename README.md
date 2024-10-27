@@ -10,5 +10,5 @@ Programming since 2021!
 Programs, OSes, & services I use for development (thank you all):  
 <img src="https://skillicons.dev/icons?i=debian,windows,vscode,visualstudio,androidstudio,cloudflare,github,wordpress" />  
 I have also founded the programming community SweeZero.  
-[![image](https://github.com/user-attachments/assets/4b921b13-f673-4dda-8576-dc4a0c08d2fa)](https://sweezero.wordpress.com)  
+[![image](https://github.com/user-attachments/assets/4b921b13-f673-4dda-8576-dc4a0c08d2fa)](https://sweezero.wordpress.com/links)  
 Everyone is welcome.
