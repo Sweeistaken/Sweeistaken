@@ -1,7 +1,7 @@
 [![sweelogo](https://github.com/user-attachments/assets/7d66d7f4-765f-4a94-860d-81298b42522d)](https://www.swee.codes)
 
 Welcome to my GitHub page!  
-I'm known as Swee on almost every corner of the world wide web!  
+I'm known as Swee on almost every corner of the world wide web.  
 I'm a 14-year-old programmer who programs in Kotlin, C#, Python, and Roblox Lua.  
 Programming since 2021!  
 I have also founded the programming community [SweeZero](https://sweezero.wordpress.com).
