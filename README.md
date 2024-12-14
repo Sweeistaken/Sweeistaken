@@ -1,6 +1,6 @@
 [![sweelogo](https://swee.codes/assets/sweebanner.svg)](https://www.swee.codes)
 
-Welcome to my GitHub page!  
+Welcome to my page!  
 I'm a 14-year-old programmer who programs/designs in:  
 <img src="https://skillicons.dev/icons?i=py,cs,html,css,md,lua,kotlin,pwsh,bash,sqlite,svg," />  
 With libraries/platforms like:  
