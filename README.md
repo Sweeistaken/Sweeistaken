@@ -6,7 +6,7 @@ I'm a 14-year-old programmer who programs/designs in:
 With libraries/platforms like:  
 <img src="https://skillicons.dev/icons?i=flask,gtk,qt,discord,raspberrypi,robloxstudio," />  
 Known as Swee on almost every corner of the world wide web. ("Nova Cat" on some)  
-Programming since 2021!  
+Programming since 2019!  
 Programs, OSes, & services I use for development (thank you all):  
 <img src="https://skillicons.dev/icons?i=linux,windows,vscodium,visualstudio,androidstudio,cloudflare,github,wordpress" />  
 I have also founded the programming community SweeZero.  
