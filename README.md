@@ -2,9 +2,9 @@
 
 Welcome to my page!  
 I'm a 14-year-old programmer who programs/designs in:  
-<img src="https://skillicons.dev/icons?i=py,cs,html,css,js,php,md,lua,kotlin,pwsh,bash,sqlite,svg," />  
+<img src="https://skillicons.dev/icons?i=py,cs,html,css,js,rust,php,md,lua,kotlin,pwsh,bash,sqlite,svg," />  
 With libraries/platforms like:  
-<img src="https://skillicons.dev/icons?i=flask,gtk,qt,discord,raspberrypi,robloxstudio," />  
+<img src="https://skillicons.dev/icons?i=flask,gtk,qt,raspberrypi,discord,robloxstudio,rocket," />  
 Known as Swee on almost every corner of the world wide web. ("Nova Cat" on some)  
 Programming since 2019!  
 Programs, OSes, & services I use for development (thank you all):  
