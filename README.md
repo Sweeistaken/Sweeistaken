@@ -5,7 +5,7 @@
 # Welcome to my page!  
 
 I'm a 14-year-old programmer who programs/designs in:  
-<img src="https://skillicons.dev/icons?i=py,cs,html,css,js,ts,rust,php,ruby,md,lua,kotlin,pwsh,bash,sqlite,svg&amp;perline=8" />  
+<img src="https://skillicons.dev/icons?i=py,cs,html,css,js,ts,rust,php,ruby,lua,kotlin,bash,sqlite,md,svg&amp;perline=8" />  
 
 With libraries/platforms like:  
 <img src="https://skillicons.dev/icons?i=flask,gtk,qt,raspberrypi,discord,robloxstudio,rocket" />  
@@ -15,7 +15,7 @@ Programming since 2019!
 
 
 Programs, OSes, & services I use for development:  
-<img src="https://skillicons.dev/icons?i=linux,neovim,visualstudio,androidstudio,cloudflare,github" />  
+<img src="https://skillicons.dev/icons?i=linux,neovim,visualstudio,androidstudio,cloudflare" />  
 
 ---
 
