@@ -1,6 +1,6 @@
 <div align="center">
 
-[![sweelogo](https://swee.codes/assets/sweebanner.png)](https://www.swee.codes)
+[![sweelogo](https://cdn.swee.codes/assets/sweebanner.webp)](https://swee.codes)
 
 # Welcome to my page!  
 
