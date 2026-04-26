@@ -13,7 +13,7 @@ Programming since 2019!
 
 ---
 
-[![](https://cdn.swee.codes/badges/sweecodes.svg)](https://swee.codes)
-[![](https://cdn.swee.codes/badges/sweezero.svg)](https://zero.swee.codes)
+[![](https://cdn.swee.codes/badges/sweecodes8831.png)](https://swee.codes)
+[![](https://cdn.swee.codes/badges/sweezero.png)](https://zero.swee.codes)
 
 </div>
