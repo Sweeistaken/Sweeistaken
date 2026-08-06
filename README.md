@@ -5,7 +5,7 @@
 # Welcome to my page!  
 
 I'm a 15-year-old idiot who programs/designs in:  
-<img src="https://skillicons.dev/icons?i=py,cs,html,css,js,ts,rust,php,go,ruby,lua,kotlin,bash,sqlite,md,svg&amp;perline=8" />  
+<img src="https://skillicons.dev/icons?i=py,cs,html,css,js,ts,rust,php,go,ruby,lua,kotlin,c,bash,sqlite,md,svg&amp;perline=8" />  
 
 Known as Swee on almost every corner of the world wide web. ("Nova Cat" on some)  
 
